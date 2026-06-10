@@ -2,8 +2,8 @@ import type {Metadata} from 'next';
 import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
-  title: 'My Google AI Studio App',
-  description: 'My Google AI Studio App',
+  title: 'ACMINODE',
+  description: 'ACMINODE - The High-Availability Operating System for Aircraft Capacity Placement',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
