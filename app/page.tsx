@@ -433,12 +433,12 @@ export default function LandingPage() {
         <div className="bg-slate-900/40 backdrop-blur-xl border border-white/10 rounded-2xl p-8">
           <div className="flex flex-col md:flex-row md:items-center justify-between mb-6">
             <h2 className="text-xs font-bold uppercase tracking-[0.2em] text-slate-500 mb-4 md:mb-0">
-              Dual-Speed Marketplace Metrics (Live 2026)
+              Dual-Speed Marketplace Metrics (Live 2026) COMING SOON
             </h2>
             <div className="hidden md:flex h-[1px] flex-1 mx-6 bg-gradient-to-r from-slate-800 to-transparent" />
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12 text-left">
+          {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12 text-left">
             <div className="flex flex-col gap-1">
               <span className="text-slate-400 text-sm">Avg. AOG Dispatch Recovery Time:</span>
               <span className="text-3xl font-mono font-bold text-emerald-400">
@@ -459,7 +459,7 @@ export default function LandingPage() {
                 $1,840,500.00 <span className="text-sm font-sans font-medium text-slate-500">USD</span>
               </span>
             </div>
-          </div>
+          </div>*/}
         </div>
       </section>
 
