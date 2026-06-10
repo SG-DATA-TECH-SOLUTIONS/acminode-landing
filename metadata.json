@@ -1,0 +1,6 @@
+{
+  "name": "ACMINode",
+  "description": "The High-Availability Operating System for Aircraft Capacity Placement",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
